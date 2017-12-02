@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Palíndromo</string>
+    <string name="text">É um palíndromo? (Versao alfa, somente palavras)</string>
+</resources>
